@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This is a program that can solve Sudokus for everyone too impatient for solving it by hand (like me).
+This is a program that can solve Sudokus for everyone too impatient for solving them by hand (like me).
 It's supposed to solve all kinds of (solvable) Sudokus.
 I haven't tested it, though, so it might not be able to solve specific combinations.
 
